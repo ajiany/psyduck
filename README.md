@@ -1,2 +1,2 @@
-# psyduck
-Daily golang basic code practice
+# Psyduck
+Use Go to practice third-party components, official libraries, and middleware
